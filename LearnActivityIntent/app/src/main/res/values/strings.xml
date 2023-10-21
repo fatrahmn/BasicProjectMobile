@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnActivityIntent</string>
+    <string name="textview_launch">Do you want to launch Cyan Activity?</string>
+    <string name="textview_visit">Do you want to visit my website?</string>
+    <string name="button_launch">Yes! Launch it!</string>
+    <string name="button_visit">sure! Let\'s visit your website!</string>
+    <string name="send">Send</string>
+    <string name="textview_who">Who is your favorit person in class?</string>
+</resources>
