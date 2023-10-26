@@ -13,14 +13,13 @@
         android:theme="@style/Theme.Foodie"
         tools:targetApi="31">
         <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetailActivity"
             android:exported="false"
-            android:label="Detail Activity"
-            android:parentActivityName=".MainActivity"
-            />
-        <meta-data
-            android:name="android.support.PARENT_ACTIVITY"
-            android:value=".MainActivity"/>
+            android:label="DetailActivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

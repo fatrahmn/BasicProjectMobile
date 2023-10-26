@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace 'com.fatur.implicitintens'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.fatur.implicitintens"
-        minSdk 27
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"

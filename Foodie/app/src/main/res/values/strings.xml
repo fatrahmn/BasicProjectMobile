@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Foodie</string>
+    <string name="food">Fried Rice</string>
+    <string name="minus">-</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+
     <string name="friedrice_desc"><b>Fried rice</b> is a dish of cooked
 rice that has been stir-fried in a wok or a frying pan and is usually
 mixed with other ingredients such as eggs, vegetables, seafood, or
@@ -9,5 +14,5 @@ variations. Fried rice first developed during the Sui Dynasty in China
 and as such all fried rice dishes can trace their origins to Chinese
 fried rice.\nFor more information, visit
 https://en.wikipedia.org/wiki/Fried_rice</string>
-    <string name="food">Fried Rice</string>
+
 </resources>

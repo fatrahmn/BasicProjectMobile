@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.fatur.penerimaintentimplisit'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.fatur.penerimaintentimplisit"
